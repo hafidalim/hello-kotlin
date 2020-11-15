@@ -22,9 +22,9 @@ fun main() {
     println("Nama saya adalah $nama")
 
     val bigString = """
-        |Alamat : Kaliajir
-        |Kecamatan : Purwanegara
-        |Kabupaten : Banjarnegara
+        |Alamat : ---
+        |Kecamatan : ---
+        |Kabupaten : ---
     """.trimMargin()
 
     println(bigString)
